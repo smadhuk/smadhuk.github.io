@@ -37,11 +37,7 @@
            display: flex
          }
          .blob {
-           flex: 1.5;
-           padding: 20px
-         }
-         .blob-right {
-           flex: 3;
+           flex: 1;
            padding: 20px
          }
 </style>
@@ -52,7 +48,7 @@
 <h1>Sid<span class="fade-in">(dhant)</span> Madhuk</h1>
 </div>
 <div class="vl"></div>
-<div class="blob-right">
+<div class="blob">
 <h2>Why do I shorten my name to Sid?</h2>
 <p>I spent 17 years in India, where the pronounciation of my name
 was consistent, uniform and easily accessible to Indo language
